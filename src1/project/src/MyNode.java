@@ -8,7 +8,7 @@ package tree;
  */
 public class MyNode {
   private MyNode father;
-  private MyNode left;
+  //private MyNode left;
   private MyNode right;
   private int value;
 
